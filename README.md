@@ -17,25 +17,6 @@ MindGuru is a comprehensive mental health and wellness platform that combines AI
 - **Game Therapy**: Engage in focus-building interactive games
 - **Customizable Experience**: Personalize therapy sessions based on preferences
 
-### 3. Mental Health Dashboard
-- **Mood Tracking**: Monitor daily emotional states
-- **Progress Visualization**: Interactive charts and graphs
-- **Activity Monitoring**: Track meditation, sleep, and exercise
-- **Weather Integration**: Environmental awareness for mood correlation
-- **Quick Actions**: Easy access to common wellness activities
-
-### 4. Assessment & Questionnaire
-- **Initial Assessment**: Comprehensive mental health evaluation
-- **Progress Tracking**: Regular check-ins and progress monitoring
-- **Personalized Recommendations**: Tailored suggestions based on responses
-- **Secure Data Management**: Private and confidential handling of user information
-
-### 5. Resource Center
-- **Educational Blog**: Articles on mental health topics
-- **Self-Help Guides**: Downloadable resources and toolkits
-- **Crisis Support**: Emergency contact information
-- **Community Resources**: Links to support groups and professional help
-
 ## Technical Stack
 - **Frontend**: React.js, Vite
 - **Styling**: TailwindCSS
@@ -61,5 +42,5 @@ MindGuru is a comprehensive mental health and wellness platform that combines AI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mindguru.git
+git clone https://github.com/gayu999Code/mindguru.git
 cd mindguru
