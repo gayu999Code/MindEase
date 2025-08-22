@@ -38,9 +38,3 @@ MindEase is a comprehensive mental health and wellness platform that combines AI
 - Groq API key
 - ElevenLabs API key
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/gayu999Code/mindguru.git
-cd mindguru
