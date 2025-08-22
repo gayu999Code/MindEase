@@ -1,7 +1,7 @@
 # MindEase - Mental Health & Wellness Platform
 
 ## Overview
-MindGuru is a comprehensive mental health and wellness platform that combines AI-powered therapy, interactive features, and personalized support to help users manage their mental well-being.
+MindEase is a comprehensive mental health and wellness platform that combines AI-powered therapy, interactive features, and personalized support to help users manage their mental well-being.
 
 ## Key Features
 
